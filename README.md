@@ -13,6 +13,8 @@
 那麼如何成為真正勇敢的人，是很重要的課題。  
 而我認為，在面對力所能及的事物之時，能毫無畏懼的踏出第一步，  
 就已經是難能可貴的了。  
+
+  
 [Reference](https://dict.revised.moe.edu.tw/dictView.jsp?ID=6538&la=0&powerMode=0)
 
 </div>
