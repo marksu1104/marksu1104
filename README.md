@@ -34,6 +34,7 @@ About Me
 
 Education
 ---
+-  NTHU IIEM 
 -  NYCU (National Yang Ming Chiao Tung University)         
     -  IEM (Industrial Engineering and Management)           
     -  AI Management cross-disciplinary program               
