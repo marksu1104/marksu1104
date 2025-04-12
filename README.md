@@ -24,9 +24,10 @@ About Me
 - Ability and Learning
     - Major in IEM(Industrial Engineering and Management)
     - Data Analysis: Python, R
-    - Machine Learning: Python, R
+    - Machine Learning & Deep Learning: Python
     - Database Management: MySQL, HTML, CSS, PHP
-    - Data Structure: C/C++
+    - Data Structure & Algorithm : C/C++
+    - Knowledge Graph, KGQA, RAG...
 - Interests
     - Sports: Jogging, Basketball, Volleyball
     - Computer Assembly
@@ -34,9 +35,11 @@ About Me
 
 Education
 ---
--  NTHU IIEM 
+-  NTHU (National Tsing Hua University)
+    - IEEM Master degree (Department of Industrial Engineering and Engineering Management)
+    - ACO LAB (Algorithms & Combinational Optimization LAB)
 -  NYCU (National Yang Ming Chiao Tung University)         
-    -  IEM (Industrial Engineering and Management)           
+    -  IEM Undergraduate (Industrial Engineering and Management)           
     -  AI Management cross-disciplinary program               
 -  HSNU (The Affiliated Senior High School of National Taiwan Normal University)
 -  HTJH (Taipei Municipal HongDao Junior High School)
