@@ -22,12 +22,14 @@
 About Me
 ---
 - Ability and Learning
-    - Major in IEM(Industrial Engineering and Management)
-    - Data Analysis: Python, R
+    - Major in IEM (Industrial Engineering and Management) and interesting in AI
+    - Data Analysis: Python, R, MATLAB
     - Machine Learning & Deep Learning: Python
-    - Database Management: MySQL, HTML, CSS, PHP
-    - Data Structure & Algorithm : C/C++
-    - Knowledge Graph, KGQA, RAG...
+    - Database Management: MySQL, HTML/CSS, PHP
+    - Data Structure & Algorithm: C/C++
+    - Scheduling, LP/MIP Model: C#, Python, CPLEX, AMPL, Lingo
+    - Simulation for scheduling: FlexSim, Python
+    - Knowledge Graph, KGQA, LLM, RAG...
 - Interests
     - Sports: Jogging, Basketball, Volleyball
     - Computer Assembly
