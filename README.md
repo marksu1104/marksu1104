@@ -1,24 +1,17 @@
 <h1 align="center">蘇慬 · Mark Su</h1>
 
 <p align="center">
-  Developer from Taiwan 🇹🇼
+慬，音同勤（ㄑㄧㄣˊ，qín），有著勇氣、勇敢的意思。<sup><a href="https://dict.revised.moe.edu.tw/dictView.jsp?ID=6538&amp;la=0&amp;powerMode=0">↗</a></sup>
+<br><br>
+<i>「立慬者非學鬥爭也，慬立而生不讓。」——《淮南子．說山》</i>
+<br><br>
+意味著學會勇敢不是為了爭搶，但是勇敢卻是伴隨著不謙讓而生。
+<br><br>
+那麼如何成為真正勇敢的人，是很重要的課題。<br>
+而我認為，在面對力所能及的事物之時，能毫無畏懼地踏出第一步，<br>
+就已經是難能可貴的了。
 </p>
 
-慬，音同勤（ㄑㄧㄣˊ，qín），有著勇氣、勇敢的意思。
-
-> 「立慬者非學鬥爭也，慬立而生不讓。」——《淮南子．說山》
-
-意味著學會勇敢不是為了爭搶，但是勇敢卻是伴隨著不謙讓而生。
-
-那麼如何成為真正勇敢的人，是很重要的課題。  
-而我認為，在面對力所能及的事物之時，能毫無畏懼的踏出第一步，  
-就已經是難能可貴的了。
-
-<sub>
-名字釋義參考：<a href="https://dict.revised.moe.edu.tw/dictView.jsp?ID=6538&la=0&powerMode=0">教育部《重編國語辭典修訂本》</a>
-</sub>
-
----
 
 ## Projects
 
@@ -27,7 +20,7 @@
 
 Training-free and interpretable sparse KGC using **proxy retrieval, relation-path reasoning, frequency evidence, and structural verification**.
 
-`Python` `BM25` `Knowledge Graph` `Retrieval & Ranking` `Experiment Design`
+`Python` `Knowledge Graph Completion` `Sparse Knowledge Graph` `BM25` `Retrieval & Ranking` `Path Mining`
 
 ---
 
@@ -36,7 +29,7 @@ Training-free and interpretable sparse KGC using **proxy retrieval, relation-pat
 
 Built for a real volleyball group to manage **attendance, leave, guests, waitlists, billing, and payments** with deterministic business rules.
 
-`FastAPI` `PostgreSQL` `SQLAlchemy` `pytest` `Docker` `GitHub Actions`
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `pytest` `LINE LIFF`
 
 ---
 
@@ -45,7 +38,7 @@ Built for a real volleyball group to manage **attendance, leave, guests, waitlis
 
 Document processing and retrieval experiments comparing **BM25, embedding-based retrieval, and hybrid retrieval** on Chinese PDF documents.
 
-`Python` `BM25` `Embeddings` `LlamaIndex` `ChromaDB` `OCR`
+`Python` `RAG` `BM25` `Embeddings` `LlamaIndex` `ChromaDB` `OCR`
 
 ---
 
@@ -54,7 +47,7 @@ Document processing and retrieval experiments comparing **BM25, embedding-based 
 
 UR3e simulation and data pipeline covering **scripted demonstrations, RLDS/TFDS dataset construction, OpenVLA experiments, and sim-to-real integration**.
 
-`Isaac Lab` `OpenVLA` `ROS 2` `Python` `Robot Simulation`
+`Python` `Isaac Sim` `Isaac Lab` `OpenVLA` `ROS 2` `MoveIt Servo` `Robot Simulation`
 
 ---
 
@@ -70,53 +63,47 @@ UR3e simulation and data pipeline covering **scripted demonstrations, RLDS/TFDS 
   - Mathematical programming and production scheduling
   - CPLEX, metaheuristics, and manufacturing simulation
 
-- **Other coursework & experiments**
-  - Machine learning, data analysis, simulation, web development, and algorithms
-
 </details>
 
-## Background
+## Education
 
-- 🎓 **National Tsing Hua University (NTHU)**
+- **National Tsing Hua University (NTHU)**
   - M.S., Industrial Engineering and Engineering Management
   - TSMC–NTHU Intelligent Manufacturing Program
   - Algorithms & Combinatorial Optimization Lab
 
-- 🎓 **National Yang Ming Chiao Tung University (NYCU)**
+- **National Yang Ming Chiao Tung University (NYCU)**
   - B.S., Industrial Engineering and Management
   - Interdisciplinary Program in Artificial Intelligence
 
-- 🏭 **USIG / Swanson Plastic**
+## Experience
+
+- **USIG / Swanson Plastic**
   - Summer Intern, Quality Assurance
 
-## Tools I've Worked With
+## Technical Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,postgres,fastapi,pytorch,docker,git,githubactions" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,r,matlab,cs,php,html,pytorch,fastapi,postgres,mysql,git,ros&perline=15" />
 </p>
 
-**Programming & Data**
+**Languages**  
+`Python` · `C/C++` · `R` · `SQL` · `MATLAB` · `Kotlin` · `C#` · `VBA` · `PHP` · `HTML`
 
-`Python` · `SQL` · `C/C++` · `R` · `MATLAB`
+**AI / ML & Robotics**  
+`PyTorch` · `OpenVLA` · `LLM` · `RAG` · `ROS 2` · `MoveIt Servo` · `Isaac Lab`
 
-**Data / Backend**
+**Data & Application Development**  
+`FastAPI` · `PostgreSQL` · `MySQL` · `SQLAlchemy` · `Pydantic`
 
-`FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Pydantic`
+**Optimization & Engineering Tools**  
+`CPLEX` · `FlexSim` · `Minitab`
 
-**Machine Learning & Retrieval**
-
-`PyTorch` · `BM25` · `LlamaIndex` · `ChromaDB` · `CKIP`
-
-**Optimization & Simulation**
-
-`CPLEX` · `Isaac Lab` · `ROS 2`
-
-**Engineering**
-
-`Git` · `Docker` · `pytest` · `GitHub Actions`
+**Development**  
+`Git` · `pytest`
 
 ---
 
 <p align="center">
-  🏐 Volleyball when I'm away from the keyboard.
+  <a href="https://www.youtube.com/@MarkSuSuSu">Volleyball</a> when I'm away from the keyboard.
 </p>
